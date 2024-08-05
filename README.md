@@ -1,7 +1,7 @@
 # 🚀 Document Verification from PDF Editor by Jr Pegasus Team
 > NOTE: I am not able to share frontend and backend codes due to confidentiality agreements.
 
-<br><br>
+
 ![Slide 16_9 - 4](https://github.com/user-attachments/assets/cdb62241-6448-4b7c-9d0c-5ce32bc48cd0)
 <br><br>
 ![Slide 16_9 - 3](https://github.com/user-attachments/assets/e0d58b0a-5938-4072-9160-d9d3f376b5c2)
