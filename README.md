@@ -1,4 +1,4 @@
-# 🚀Document Verification for PDF Editor by Jr Pegasus Team
+# 🚀Document Verification for PDF Editor by Jr Pegasus
 > NOTE: I am not able to share frontend and backend codes due to confidentiality agreements.
 
 
